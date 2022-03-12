@@ -9,3 +9,12 @@
 
 ### **About Me**
 I am 31 years old, work as an engineer. I am learning Front-End Development and English. Took several courses in HTML and CSS. I'm fond of programming. Aspiring to be a Junior Frontend Developer.
+
+### **Skills**
+* HTML
+* CSS 
+* JavaScript
+* GIT
+* VSCode
+* Figma
+* Windows OS
