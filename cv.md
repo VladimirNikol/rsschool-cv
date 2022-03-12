@@ -35,3 +35,20 @@ function saleHotdogs(n){
   return money
 }
 ```
+
+### **Work experience**
+* educational projects
+
+### **Education**
+* Belarusian State University of Food and Chemical Technologies
+	* Low Temperature Engineering 
+* Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages
+* Head First JavaScript Programming: A Brain-Friendly Guide
+* JavaScript https://learn.javascript.ru/
+* htmlacademy
+	* [HTML, CSS](https://htmlacademy.ru/intensive/htmlcss)
+* JS, CSS, HTML, Git video courses on YouTube
+
+### **Languages**
+* Russian 
+* English (A2)
