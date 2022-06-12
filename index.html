@@ -20,7 +20,7 @@
 							<img src="./assets/img/myPhoto.jpg" alt="myPhoto">
 						</div>
 						<div class="profile__container">
-							<div class="profile__header __title">Profile</div>
+							<h2 class="profile__header __title">Profile</h2>
 							<div class="profile__text __text">
 								I am 31 years old, work as an engineer. 
 								I am learning Front-End Development and English.
@@ -51,13 +51,20 @@
 								</ul>
 							</div>
 						</div>
-						<div class="languages__container">
-							<div class="languages__header __title">Languages</div>
-							<div class="languages__list __text">
-								<ul>
-									<li>Russian</li>
-									<li>English (A2)</li>
-								</ul>
+						<div class="skills__container">
+							<div class="skills__header __title">Skills</div>
+							<div class="slills__text __text">
+								<div class="skills__list">
+									<ul>
+										<li>HTML</li>
+										<li>CSS</li>
+										<li>JavaScript</li>
+										<li>GIT</li>
+										<li>VSCode</li>
+										<li>Figma</li>
+										<li>Windows OS</li>
+									</ul>
+								</div>
 							</div>
 						</div>
 					</aside>
@@ -78,38 +85,32 @@
 								</ul>
 							</div>
 						</div>
-						<div class="skills__container">
-							<div class="skills__header __title">Skills</div>
-							<div class="slills__text __text">
-								<div class="skills__list">
-									<ul>
-										<li>HTML</li>
-										<li>CSS</li>
-										<li>JavaScript</li>
-										<li>GIT</li>
-										<li>VSCode</li>
-										<li>Figma</li>
-										<li>Windows OS</li>
-									</ul>
-								</div>
+						<div class="languages__container">
+							<div class="languages__header __title">Languages</div>
+							<div class="languages__list __text">
+								<ul>
+									<li>Russian</li>
+									<li>English (A2)</li>
+								</ul>
 							</div>
 						</div>
-						
 						<div class="code__container">
 							<div class="code__header __title">Code example</div>
 							<div class="code__example __text">
 <pre>
+	<code>
 function saleHotdogs(n){
 	var money = 0;
-	if (n < 5 ) {
+	if (n &lt; 5 ) {
 		money=n * 100 
-	} else if ( n>= 5 && n < 10 ) {
-		money=n * 95 
+	} else if ( n>= 5 && n &lt; 10 ) {
+		money=n * 95
 	} else if ( n>= 10 ) {
 		money = n * 90
 	}
 	return money
 }
+	</code>
 </pre>
 							</div>
 						</div>
